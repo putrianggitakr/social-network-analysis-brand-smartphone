@@ -24,10 +24,10 @@ bahasa <- "id"
 
 token <- create_token(
   app = "SNA Brand HP",
-  consumer_key = "KEM8sASVTh57NuPpi0cbEpBee",
-  consumer_secret = "eC9PUlqSKFjXC9QMRADq2to7lKnBcCjalVCJpP6Iy7SgWZGxMr",
-  access_token = "298884110-GSfJ1Xb3DxK9jedJ7M9g6gYt7W5JmAbWhayoNeK6",
-  access_secret = "DbQ6OvCsZ2iRsFYVIFqt77mdaNEN3Xgt9amRcnfXtk7s8")
+  consumer_key = "XXXX",
+  consumer_secret = "XXXX",
+  access_token = "XXXX",
+  access_secret = "XXXX")
 
 crawling1 <- search_tweets(keyword,
                           n = jumlahtweet,
